@@ -46,51 +46,6 @@ file_filter = translations/calendar-bundle.v4_4-tl_user_group/<lang>.xlf
 source_lang = en
 type = XLIFF
 
-[calendar-bundle.v4_8-default]
-file_filter = translations/calendar-bundle.v4_8-default/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v4_8-modules]
-file_filter = translations/calendar-bundle.v4_8-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v4_8-tl_calendar]
-file_filter = translations/calendar-bundle.v4_8-tl_calendar/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v4_8-tl_calendar_events]
-file_filter = translations/calendar-bundle.v4_8-tl_calendar_events/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v4_8-tl_calendar_feed]
-file_filter = translations/calendar-bundle.v4_8-tl_calendar_feed/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v4_8-tl_layout]
-file_filter = translations/calendar-bundle.v4_8-tl_layout/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v4_8-tl_module]
-file_filter = translations/calendar-bundle.v4_8-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v4_8-tl_user]
-file_filter = translations/calendar-bundle.v4_8-tl_user/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v4_8-tl_user_group]
-file_filter = translations/calendar-bundle.v4_8-tl_user_group/<lang>.xlf
-source_lang = en
-type = XLIFF
-
 [calendar-bundle.v4_9-default]
 file_filter = translations/calendar-bundle.v4_9-default/<lang>.xlf
 source_lang = en
