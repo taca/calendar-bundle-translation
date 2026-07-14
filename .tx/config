@@ -1,182 +1,219 @@
 [main]
 host = https://www.transifex.com
 
-[calendar-bundle.v4_9-default]
-file_filter = translations/calendar-bundle.v4_9-default/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v4_13-default]
+file_filter            = translations/calendar-bundle.v4_13-default/<lang>.xlf
+source_file            = translations/calendar-bundle.v4_13-default/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_9-modules]
-file_filter = translations/calendar-bundle.v4_9-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v4_13-modules]
+file_filter            = translations/calendar-bundle.v4_13-modules/<lang>.xlf
+source_file            = translations/calendar-bundle.v4_13-modules/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_9-tl_calendar]
-file_filter = translations/calendar-bundle.v4_9-tl_calendar/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v4_13-tl_calendar]
+file_filter            = translations/calendar-bundle.v4_13-tl_calendar/<lang>.xlf
+source_file            = translations/calendar-bundle.v4_13-tl_calendar/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_9-tl_calendar_events]
-file_filter = translations/calendar-bundle.v4_9-tl_calendar_events/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v4_13-tl_calendar_events]
+file_filter            = translations/calendar-bundle.v4_13-tl_calendar_events/<lang>.xlf
+source_file            = translations/calendar-bundle.v4_13-tl_calendar_events/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_9-tl_calendar_feed]
-file_filter = translations/calendar-bundle.v4_9-tl_calendar_feed/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v4_13-tl_calendar_feed]
+file_filter            = translations/calendar-bundle.v4_13-tl_calendar_feed/<lang>.xlf
+source_file            = translations/calendar-bundle.v4_13-tl_calendar_feed/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_9-tl_layout]
-file_filter = translations/calendar-bundle.v4_9-tl_layout/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v4_13-tl_layout]
+file_filter            = translations/calendar-bundle.v4_13-tl_layout/<lang>.xlf
+source_file            = translations/calendar-bundle.v4_13-tl_layout/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_9-tl_module]
-file_filter = translations/calendar-bundle.v4_9-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v4_13-tl_module]
+file_filter            = translations/calendar-bundle.v4_13-tl_module/<lang>.xlf
+source_file            = translations/calendar-bundle.v4_13-tl_module/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_9-tl_user]
-file_filter = translations/calendar-bundle.v4_9-tl_user/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v4_13-tl_user]
+file_filter            = translations/calendar-bundle.v4_13-tl_user/<lang>.xlf
+source_file            = translations/calendar-bundle.v4_13-tl_user/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_9-tl_user_group]
-file_filter = translations/calendar-bundle.v4_9-tl_user_group/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v4_13-tl_user_group]
+file_filter            = translations/calendar-bundle.v4_13-tl_user_group/<lang>.xlf
+source_file            = translations/calendar-bundle.v4_13-tl_user_group/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_13-default]
-file_filter = translations/calendar-bundle.v4_13-default/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_3-default]
+file_filter            = translations/calendar-bundle.v5_3-default/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_3-default/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_13-modules]
-file_filter = translations/calendar-bundle.v4_13-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_3-modules]
+file_filter            = translations/calendar-bundle.v5_3-modules/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_3-modules/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_13-tl_calendar]
-file_filter = translations/calendar-bundle.v4_13-tl_calendar/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_3-tl_calendar]
+file_filter            = translations/calendar-bundle.v5_3-tl_calendar/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_3-tl_calendar/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_13-tl_calendar_events]
-file_filter = translations/calendar-bundle.v4_13-tl_calendar_events/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_3-tl_calendar_events]
+file_filter            = translations/calendar-bundle.v5_3-tl_calendar_events/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_3-tl_calendar_events/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_13-tl_calendar_feed]
-file_filter = translations/calendar-bundle.v4_13-tl_calendar_feed/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_3-tl_calendar_feed]
+file_filter            = translations/calendar-bundle.v5_3-tl_calendar_feed/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_3-tl_calendar_feed/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_13-tl_layout]
-file_filter = translations/calendar-bundle.v4_13-tl_layout/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_3-tl_layout]
+file_filter            = translations/calendar-bundle.v5_3-tl_layout/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_3-tl_layout/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_13-tl_module]
-file_filter = translations/calendar-bundle.v4_13-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_3-tl_module]
+file_filter            = translations/calendar-bundle.v5_3-tl_module/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_3-tl_module/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_13-tl_user]
-file_filter = translations/calendar-bundle.v4_13-tl_user/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_3-tl_user]
+file_filter            = translations/calendar-bundle.v5_3-tl_user/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_3-tl_user/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v4_13-tl_user_group]
-file_filter = translations/calendar-bundle.v4_13-tl_user_group/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_3-tl_user_group]
+file_filter            = translations/calendar-bundle.v5_3-tl_user_group/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_3-tl_user_group/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v5_0-default]
-file_filter = translations/calendar-bundle.v5_0-default/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_7-default]
+file_filter            = translations/calendar-bundle.v5_7-default/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_7-default/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v5_0-modules]
-file_filter = translations/calendar-bundle.v5_0-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_7-modules]
+file_filter            = translations/calendar-bundle.v5_7-modules/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_7-modules/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v5_0-tl_calendar]
-file_filter = translations/calendar-bundle.v5_0-tl_calendar/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_7-tl_calendar]
+file_filter            = translations/calendar-bundle.v5_7-tl_calendar/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_7-tl_calendar/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v5_0-tl_calendar_events]
-file_filter = translations/calendar-bundle.v5_0-tl_calendar_events/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_7-tl_calendar_events]
+file_filter            = translations/calendar-bundle.v5_7-tl_calendar_events/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_7-tl_calendar_events/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v5_0-tl_calendar_feed]
-file_filter = translations/calendar-bundle.v5_0-tl_calendar_feed/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_7-tl_calendar_feed]
+file_filter            = translations/calendar-bundle.v5_7-tl_calendar_feed/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_7-tl_calendar_feed/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v5_0-tl_layout]
-file_filter = translations/calendar-bundle.v5_0-tl_layout/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_7-tl_layout]
+file_filter            = translations/calendar-bundle.v5_7-tl_layout/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_7-tl_layout/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v5_0-tl_module]
-file_filter = translations/calendar-bundle.v5_0-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_7-tl_module]
+file_filter            = translations/calendar-bundle.v5_7-tl_module/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_7-tl_module/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v5_0-tl_user]
-file_filter = translations/calendar-bundle.v5_0-tl_user/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_7-tl_user]
+file_filter            = translations/calendar-bundle.v5_7-tl_user/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_7-tl_user/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v5_0-tl_user_group]
-file_filter = translations/calendar-bundle.v5_0-tl_user_group/<lang>.xlf
-source_lang = en
-type = XLIFF
+[o:contao:p:calendar-bundle:r:v5_7-tl_user_group]
+file_filter            = translations/calendar-bundle.v5_7-tl_user_group/<lang>.xlf
+source_file            = translations/calendar-bundle.v5_7-tl_user_group/en.xlf
+source_lang            = en
+type                   = XLIFF
+replace_edited_strings = false
+keep_translations      = false
 
-[calendar-bundle.v5_1-default]
-file_filter = translations/calendar-bundle.v5_1-default/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v5_1-modules]
-file_filter = translations/calendar-bundle.v5_1-modules/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v5_1-tl_calendar]
-file_filter = translations/calendar-bundle.v5_1-tl_calendar/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v5_1-tl_calendar_events]
-file_filter = translations/calendar-bundle.v5_1-tl_calendar_events/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v5_1-tl_calendar_feed]
-file_filter = translations/calendar-bundle.v5_1-tl_calendar_feed/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v5_1-tl_layout]
-file_filter = translations/calendar-bundle.v5_1-tl_layout/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v5_1-tl_module]
-file_filter = translations/calendar-bundle.v5_1-tl_module/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v5_1-tl_user]
-file_filter = translations/calendar-bundle.v5_1-tl_user/<lang>.xlf
-source_lang = en
-type = XLIFF
-
-[calendar-bundle.v5_1-tl_user_group]
-file_filter = translations/calendar-bundle.v5_1-tl_user_group/<lang>.xlf
-source_lang = en
-type = XLIFF
